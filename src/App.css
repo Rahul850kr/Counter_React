@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.even{
+  color: green;
+ 
+}
+.odd{
+  color: red;
+ 
+}
+
